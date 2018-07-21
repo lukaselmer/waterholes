@@ -11,6 +11,7 @@ bin/server
 ## Server
 
 ```sh
+yarn global add http-server
 bin/watch
 ```
 
