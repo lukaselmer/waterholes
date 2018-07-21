@@ -1,3 +1,3 @@
 # Waterholes
 
-!(Algorithm in Action)[/animation.gif]
+!(Algorithm in Action)[https://github.com/lukaselmer/waterholes/blob/master/animation.gif]
