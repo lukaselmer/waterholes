@@ -1,0 +1,24 @@
+{
+  "name": "waterholes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaselmer/waterholes.git"
+  },
+  "author": "Lukas Elmer <lukas.elmer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukaselmer/waterholes/issues"
+  },
+  "homepage": "https://github.com/lukaselmer/waterholes#readme",
+  "devDependencies": {
+    "prettier": "^1.13.7",
+    "tslint": "^5.11.0",
+    "typescript": "^2.9.2"
+  }
+}
