@@ -1,10 +1,17 @@
 # Waterholes
 
-## Running
+## Compiling
+
+Compiles the typescript files:
+
+```sh
+bin/server
+```
+
+## Server
 
 ```sh
 bin/watch
-bin/server
 ```
 
 ## Algorithm in Action
